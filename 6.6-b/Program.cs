@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace triplets
+namespace charTotal
 {
     public class Class1
     {
@@ -25,16 +25,16 @@ namespace triplets
                 {
                     N = M.Value;
                 }
-                List<string> triplets = new List<string>();
+                List<string> stuff = new List<string>();
                 for (int i = 0; i < N; i++)
                 {
-                    triplets.Add(Console.ReadLine());
+                    stuff.Add(Console.ReadLine());
                 }
                 for (int i = 0; i < N; i ++)
                 {
                 char digit;
                 bool result;
-                string line = triplets[i];
+                string line = stuff[i];
                 int total = 0;
                     for (int j = 0; j < line.Length; j++)
                     {
