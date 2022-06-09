@@ -1,0 +1,15 @@
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\bin\Debug\net6.0\6.6.exe
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\bin\Debug\net6.0\6.6.deps.json
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\bin\Debug\net6.0\6.6.runtimeconfig.json
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\bin\Debug\net6.0\6.6.dll
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\bin\Debug\net6.0\6.6.pdb
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.csproj.AssemblyReference.cache
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.AssemblyInfoInputs.cache
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.AssemblyInfo.cs
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.csproj.CoreCompileInputs.cache
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.dll
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\refint\6.6.dll
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.pdb
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\6.6.genruntimeconfig.cache
+E:\Users\Cam\Desktop\Revature\weeklychallenges\6.6\obj\Debug\net6.0\ref\6.6.dll
